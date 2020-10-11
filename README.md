@@ -6,6 +6,6 @@ So I decided to figure out if that was true, based on game records and nearby we
 
 
 ### References
-Weather from [NOAA](https://www.ncei.noaa.gov/)
-Game records from [Pro Football Reference](https://www.pro-football-reference.com/players/A/AikmTr00/gamelog/1991/)
+* Weather from [NOAA](https://www.ncei.noaa.gov/)
+* Game records from [Pro Football Reference](https://www.pro-football-reference.com/players/A/AikmTr00/gamelog/1991/)
 
