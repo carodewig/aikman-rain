@@ -6,6 +6,6 @@ So I decided to figure out if that was true, based on game records and nearby we
 
 
 ### References
-* Weather from [NOAA](https://www.ncei.noaa.gov/)
+* Weather from [NOAA](https://www.ncei.noaa.gov/) -- note that `nearby_wx` is only for the Dallas stadium, so it only applies to home games
 * Game records from [Pro Football Reference](https://www.pro-football-reference.com/players/A/AikmTr00/gamelog/1991/)
 
